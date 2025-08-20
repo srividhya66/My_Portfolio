@@ -38,20 +38,19 @@ cd My_Portfolio
 npm install  
 npm start  
 
-📸 Screenshots
 
-(Add screenshots or GIFs of your portfolio here)
 
 🔗 Live Demo
 
-👉 View Portfolio 
+👉 View Portfolio  https://sri-vidhyaa-badampudi.netlify.app/
 
 📬 Contact
 
 For collaborations or opportunities:
 
-Email: your-email@example.com
+Email: blakshmisrividhya@gmail.com
 
-LinkedIn: Your LinkedIn
+LinkedIn: 
 
-GitHub: Your GitHub
+GitHub: https://github.com/srividhya66
+
